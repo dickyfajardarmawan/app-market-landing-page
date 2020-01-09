@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One&display=swap');
+
+.jumbotron {
+    font-family: 'Patua One', cursive;
+    color : #233e51;
+    background-image: url("img/employee-benefits-Simkiss2.jpg");
+    background-size: cover;
+}
+
+.btn-light, .btn-light:hover, .btn-light:active, .btn-light:visited {
+    background-color: #233e51 !important;
+    color: #ffffff;
+}
