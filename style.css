@@ -3,11 +3,27 @@
 .jumbotron {
     font-family: 'Patua One', cursive;
     color : #233e51;
-    background-image: url("img/employee-benefits-Simkiss2.jpg");
+    background-image: url("img/Jangan-Lagi-Malas-Naik-Tangga-Ini-5-Manfaatnya-untuk-Kesehatan.jpg");
     background-size: cover;
 }
 
 .btn-light, .btn-light:hover, .btn-light:active, .btn-light:visited {
     background-color: #233e51 !important;
     color: #ffffff;
+}
+
+#sticky-footer {
+    background-color: #233e51;
+}
+
+#azz {
+    position: absolute;
+    bottom: 0;
+}
+
+
+@media screen and (max-width: 460px) {
+    #zz {
+        width: 100%;
+    }
 }
